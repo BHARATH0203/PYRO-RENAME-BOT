@@ -86,5 +86,8 @@ broadcast - Send Message To All Users (Admin Only)
    <p>❣️ MoTech 🔥</p>
   </a>
 
-
+#techmagazine
+<a href="https://render.com/deploy?repo=https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT">
+  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a>
 
